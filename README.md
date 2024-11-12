@@ -1,7 +1,7 @@
 # CaseStudyOfRoofStack
 
 First of all, I created a Firebase project that contains two collections: users and items. The users collection holds the users' information, while the items collection contains the users' order information.
-While the users collection has four areas: username, email, created, and modified dates, the items collection has userId, itemName, and created and modified dates.
+While the users collection has four areas: username, email, created and modified dates, the items collection has userId, itemName, and created and modified dates.
 Then, I connected these two collections using indexes. 
 After that, I integreted FireStore with BigQuery.
 
